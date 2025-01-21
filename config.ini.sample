@@ -1,0 +1,4 @@
+BOT_NAME=Your_tg_bot
+BOT_TOKEN=YOUR:BOT_TOKEN
+NASA_API_KEY = DEMO_KEY
+NASA_APOD_URL=https://api.nasa.gov/planetary/apod
